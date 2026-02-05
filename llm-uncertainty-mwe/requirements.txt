@@ -1,0 +1,12 @@
+# Core dependencies
+torch>=2.0.0
+transformers>=4.35.0
+numpy>=1.24.0
+
+# Optional for examples
+tqdm>=4.65.0
+matplotlib>=3.7.0
+scikit-learn>=1.3.0
+
+# For dataset processing
+datasets>=2.14.0
